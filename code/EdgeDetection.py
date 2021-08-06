@@ -6,7 +6,7 @@ import cv2
 import numpy as np
 from scipy import signal
 import matplotlib.pyplot as plt
-img=cv2.imread('lena.jpg',0)
+img=cv2.imread('pic/lena.jpg',0)
 
 #Roberts算子
 roberts_x=np.array([[-1,0],[0,1]],dtype=np.int)
