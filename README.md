@@ -1,2 +1,2 @@
 # image-processing
-bsaic image processing
+basic image processing
